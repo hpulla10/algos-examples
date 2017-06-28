@@ -34,8 +34,8 @@ public class StringPermutations {
 	}
 	
 	public static void main(String args[]) {
-		String input ="ABC";
+		String input ="ABCD";
 		char[] output = new char[input.length()];
-		print(input.toCharArray(), output, 0 , 3);
+		print(input.toCharArray(), output, 0 , 4);
 	}
 }
