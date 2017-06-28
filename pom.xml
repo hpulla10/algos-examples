@@ -4,5 +4,5 @@
   <artifactId>algos-examples</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>algos-examples</name>
-  <description>This project has all basic examples of algos and ds.</description>
+  <description>This project has all basic examples of algorithms and data structures.</description>
 </project>
